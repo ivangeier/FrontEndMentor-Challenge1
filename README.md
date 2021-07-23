@@ -21,10 +21,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/screenshot.jpg)
+![](./assets/screenshot.png)
 ### Links
 
-- Live Site URL: [Add live site URL here](https://naughty-poitras-fd2906.netlify.app)
+- Live Site URL: [Check here](https://naughty-poitras-fd2906.netlify.app)
 
 ### Built with
 
