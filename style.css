@@ -64,7 +64,7 @@ body {
 .container-content .head {
   width:80%;
 
-  font-size: 2rem;
+  font-size: 2.2rem;
   font-weight: 700;
   font-family: var(--inter);
   color: var(--white);
@@ -138,6 +138,7 @@ body {
 
   .container-card {
     flex-direction: column;
+    max-width: 650px;
   }
 
   .container-content {
