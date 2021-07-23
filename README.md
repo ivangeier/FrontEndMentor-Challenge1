@@ -39,5 +39,5 @@ This challenge help me to improve my habiliteis with CSS flexbox and how I need 
 ## Author
 
 - Ivan Geier
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ivangeier)
+- Frontend Mentor - [@ivangeier](https://www.frontendmentor.io/profile/ivangeier)
 - Twitter - [@ivangeier](https://www.twitter.com/ivangeier)
